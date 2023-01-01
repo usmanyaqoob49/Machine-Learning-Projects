@@ -1,0 +1,1 @@
+This project use Computer Vision to detect the tampered card entered by ther user. You upload the Orignal card image and other image (that you wnat to check) and it will tell you if it is tampered or not.
